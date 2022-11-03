@@ -1,0 +1,70 @@
+<style>
+  body{
+  font-family: "Franklin";
+  }
+
+  body, html {
+  height: 100%;
+  margin: 0;
+  }
+
+  .bg {
+  background-image: url("cover3.webp");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+  .centered {
+  position: absolute;
+  font-weight: bold;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+
+  .navbar a:hover, .dropdown:hover, .dropbtn{
+    background-color:#090054;
+    color:white;
+  }
+
+  h1{
+  font-size: 3.5vw;
+  }
+
+  h3{
+  font-size: 14vw;
+  text-shadow: black 14px 0 5px;
+  }
+
+  nav{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.5vw;
+  }
+
+  .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+  h2{
+  font-size: 34pt;
+  font-weight: bold;
+  }
+  p{
+    font-size: 20pt;
+    font-weight: bold;
+    }
+  .p2{
+    font-size: 14pt;
+    font-weight: bold;
+    }
+</style>
